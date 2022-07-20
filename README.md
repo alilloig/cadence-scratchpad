@@ -10,9 +10,9 @@ Tinkering with Cadence contracts.
 
 - Metadata is stored on chain
 - Users do not see metadata at purchase
-- Creator can choose when to reveal
+- Creator can choose when to reveal an individual NFT's metadata
 - Creator does not need access to user's account or collection
-- User does not need to take any action
+- User does not need to take any action (i.e no transaction required)
 - No centralized backend required
 
 ## Claimable NFTs
@@ -34,7 +34,7 @@ Tinkering with Cadence contracts.
 
 - Metadata is stored on chain
 - Users do not know edition or serial number at purchase
-- Creator can choose when to reveal
+- Creator can choose when to reveal an NFT's edition
 - Creator does not need access to user's account or collection
-- User does not need to take any action
+- User does not need to take any action (i.e no transaction required)
 - No centralized backend required
