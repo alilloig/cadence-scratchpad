@@ -1,6 +1,6 @@
 # Cadence Scratchpad :notebook:
 
-Tinkering with Cadence contracts.
+Tinkering with Cadence contracts. Forked from https://github.com/psiemens/cadence-scratchpad
 
 ## Blind NFTs
 

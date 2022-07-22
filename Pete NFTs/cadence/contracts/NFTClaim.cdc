@@ -1,5 +1,5 @@
-import NonFungibleToken from "./lib/NonFungibleToken.cdc"
-import FungibleToken from "./lib/FungibleToken.cdc"
+import NonFungibleToken from "../../../lib/NonFungibleToken.cdc"
+import FungibleToken from "../../../lib/FungibleToken.cdc"
 
 pub contract NFTClaim {
 

@@ -1,6 +1,6 @@
-import NonFungibleToken from "./lib/NonFungibleToken.cdc"
-import MetadataViews from "./lib/MetadataViews.cdc"
-import FungibleToken from "./lib/FungibleToken.cdc"
+import NonFungibleToken from "../../../lib/NonFungibleToken.cdc"
+import MetadataViews from "../../../lib/MetadataViews.cdc"
+import FungibleToken from "../../../lib/FungibleToken.cdc"
 
 pub contract Foo: NonFungibleToken {
 
